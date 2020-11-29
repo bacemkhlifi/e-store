@@ -1,0 +1,21 @@
+body {
+    background-color: #e1e1e1;
+}
+/* start login form */
+.login {
+    width: 300px;
+    margin: 100px auto;
+}
+
+.login input{
+    margin-bottom: 10px;
+}
+.login .form-control {
+ background-color: #EAEAEA;
+}
+
+/* end login form */ 
+
+.navbar {
+    border-radius: .25rem!;
+}
